@@ -1,2 +1,3 @@
 # grainger1130
-/home/grainger1130/public_html/home.html
+# aj-grainger.com WebRoot files for cPanel Web Site
+/home/grainger1130/public_html/...
